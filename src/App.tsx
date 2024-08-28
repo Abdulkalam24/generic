@@ -3,7 +3,7 @@ import Autocomplete from './components/Autocomplete/Autocomplete';
 import './App.css';
 
 function App() {
-  const suggestions = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry'];
+  const suggestions = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry','Fig','Guava','Hazelnuts','Imbu','Jackfruit','Kiwi','Lemon','Mango','Neem','Olive'];
 
   return (
     <div className="App">
